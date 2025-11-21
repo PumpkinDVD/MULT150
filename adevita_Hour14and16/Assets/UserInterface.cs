@@ -1,0 +1,1 @@
+/*  Made the background image a beach, changed the colors of the button (and transition colors) and text, gave the upper text bold and dropshadow properties, gave the lower text dropshadow and italic properties, changed the sizes of the text a bit, made the text reflect the game and had the lower text briefly explian what you'll do.  */

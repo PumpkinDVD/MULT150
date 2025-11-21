@@ -4,6 +4,12 @@ public class PrefabGenerator : MonoBehaviour
 {
     public GameObject prefab;
 
+  
+    void Start()
+    {
+        
+    }
+
     void Update()
     {
         // Whenever we hit the B key we will generate a prefab at the
